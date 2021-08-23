@@ -1,0 +1,12 @@
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Entidad\obj\Debug\TrabajoGrupal.Entidad.pdb

@@ -1,0 +1,70 @@
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe.config
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.Form1.resources
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe.config
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormInicio.resources
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormTrabajador.resources
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.Properties.Resources.resources
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.GenerateResource.cache
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CopyComplete
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormAdmin.resources
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe.config
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormAdmin.resources
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormInicio.resources
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormTrabajador.resources
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.Properties.Resources.resources
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CopyComplete
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.exe
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.pdb
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe.config
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.exe
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Presentacion.pdb
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.dll
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.dll
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Entidad.pdb
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.Negocio.pdb
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csprojAssemblyReference.cache
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormAdmin.resources
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormInicio.resources
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.FormTrabajador.resources
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.Properties.Resources.resources
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.GenerateResource.cache
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CoreCompileInputs.cache
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.csproj.CopyComplete
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.exe
+D:\UPT\5° CICLO\PROGRAMACION II\UNIDAD III\Proyecto Grupal-Sistema de control de asistencia\Proyecto en Visual Studio\TrabajoGrupal.Presentacion\obj\Debug\TrabajoGrupal.Presentacion.pdb

@@ -1,0 +1,33 @@
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CopyComplete
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CopyComplete
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Ana\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero-STEVE10OFI\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CopyComplete
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.pdb

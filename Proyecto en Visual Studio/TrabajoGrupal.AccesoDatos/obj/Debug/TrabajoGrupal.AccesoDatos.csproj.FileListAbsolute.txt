@@ -1,0 +1,18 @@
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CopyComplete
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\USUARIO\3D Objects\Trabajo Grupal\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CopyComplete
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Rafael\source\repos\trabajo-grupal---iii-unidad-grupo-b-trabgrupal_u3_valdez_lira_cutipa_romero\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.pdb
